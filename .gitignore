@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.log
+url_perfil.txt
+.env
+run.bat
+run.vbs
